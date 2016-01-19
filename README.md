@@ -1,5 +1,5 @@
 ##LoopingViewpager
- #默认自动循环滑动，也可以手动滑动控制
+   默认自动循环滑动，也可以手动滑动控制
 ##Usage
 ```
   <RelativeLayout

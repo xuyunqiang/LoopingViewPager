@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    xmlns:indicator="http://schemas.android.com/apk/res-auto">
+    
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+
+        <com.queen.views.AutoScrollViewPager
+            android:id="@+id/scroll_pager"
+            android:layout_width="match_parent"
+            android:layout_height="240dp"/>
+
+        <com.queen.views.ViewGroupIndicator
+            android:id="@+id/scroll_pager_indicator"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_alignParentBottom="true"
+            indicator:selected_color="#ffffff"
+            indicator:unselected_color="#ffffff"
+            indicator:distance_from_two_indicator="10dp"
+            indicator:radius="10dp"/>
+
+    </RelativeLayout>
+
+
+</LinearLayout>

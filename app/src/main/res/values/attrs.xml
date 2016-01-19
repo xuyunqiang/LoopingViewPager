@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="indicator">
+        <attr name="selected_color" format="color" />
+        <attr name="unselected_color" format="color" />
+        <attr name="distance_from_two_indicator" format="dimension" />
+        <attr name="radius" format="dimension" />
+    </declare-styleable>
+
+    <attr name="indicatorDefStyleAttr" format="reference"/>
+</resources>

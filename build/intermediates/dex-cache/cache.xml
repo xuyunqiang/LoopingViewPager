@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/admin/WorkSpace/LoopingViewPager/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/admin/WorkSpace/LoopingViewPager/app/build/intermediates/pre-dexed/debug/classes-bde1e1cb61e48ee11073e8d3cc2ac36d339308ff.jar" />
+    </item>
+    <item
+        jar="/Users/admin/WorkSpace/LoopingViewPager/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/admin/WorkSpace/LoopingViewPager/app/build/intermediates/pre-dexed/debug/classes-463d4689214ff2d686f711c16aeb5810e6e6cb29.jar" />
+    </item>
+    <item
+        jar="/Users/admin/WorkSpace/LoopingViewPager/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/admin/WorkSpace/LoopingViewPager/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-7f80b2c68088360d43afa2ec26e608e920e9e131.jar" />
+    </item>
+    <item
+        jar="/Users/admin/WorkSpace/Development/adt-bundle-mac-x86_64-20131030/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/admin/WorkSpace/LoopingViewPager/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-5af9adb0e3fa001ae8b097b5a1581063c06db4ca.jar" />
+    </item>
+
+</items>
